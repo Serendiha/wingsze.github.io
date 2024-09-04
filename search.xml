@@ -16,9 +16,9 @@
 </div>
 
 <div class="tabs" id="first-unique-name"><ul class="nav-tabs"><li class="tab active"><a href="#first-unique-name-1">網站使用指引</a></li><li class="tab"><a href="#first-unique-name-2">网站使用指引</a></li><li class="tab"><a href="#first-unique-name-3">Website Guidelines</a></li></ul><div class="tab-content"><div class="tab-pane active" id="first-unique-name-1"><p><strong>電腦使用者</strong></p>
-<div class="note "><p>右下角🌓可轉換白天&#x2F;黑夜模式<br>網站默認語言<mark class="label primary">繁體-香港</mark>，底部能夠轉換語言（繁體-香港&#x2F;簡體&#x2F;English）<br>轉換語言後主頁會顯示相應語言的文章內容：</p>
+<div class="note "><p>右下角🌓可轉換白天&#x2F;黑夜模式<br>網站默認語言<mark class="label primary">繁體-香港</mark>，底部能夠轉換語言（繁體-香港&#x2F;簡體&#x2F;English）</p>
 <blockquote>
-<p><a href="https://wingsze.us.kg/zh-HK/%E5%80%8B%E4%BA%BA%E5%B1%A5%E6%AD%B7/">履歷</a><br><a href="https://wingsze.us.kg/zh-HK/%E5%80%8B%E4%BA%BA%E4%BD%9C%E5%93%81/">個人作品</a></p>
+<p>轉換語言後主頁會顯示相應語言的文章內容：<br>–&gt;<a href="https://wingsze.us.kg/zh-HK/%E5%80%8B%E4%BA%BA%E5%B1%A5%E6%AD%B7/">履歷</a><br>–&gt;<a href="https://wingsze.us.kg/zh-HK/%E5%80%8B%E4%BA%BA%E4%BD%9C%E5%93%81/">個人作品</a></p>
 </blockquote>
 <p><mark class="label success">左側功能:</mark><br>  主菜單：主頁（Welcome again!）、關於（多語言自我介紹）、分類（文章的多語言版本）、搜索（輸入關鍵詞即可搜索相關內容）<br>  作者欄目：有電郵地址和其他平台的個人主頁，歡迎聯絡了解！<br>  目錄：進入文章後左側會出現目錄</p>
 </div>
@@ -26,9 +26,9 @@
 <p><strong>流動設備使用者</strong></p>
 <div class="note "><p>流動設備的主菜單在網頁頂部；作者欄目和目錄則在左下角</p>
 </div></div><div class="tab-pane" id="first-unique-name-2"><p><strong>电脑用户</strong></p>
-<div class="note "><p>右下角🌓可切换白天&#x2F;黑夜模式<br>网站默认语言为<mark class="label primary">繁体-香港</mark>，在页面底部可以切换语言（繁体-香港&#x2F;简体&#x2F;英语）。<br>切换语言后，主页将显示相应语言的文章内容：</p>
+<div class="note "><p>右下角🌓可切换白天&#x2F;黑夜模式<br>网站默认语言为<mark class="label primary">繁体-香港</mark>，在页面底部可以切换语言（繁体-香港&#x2F;简体&#x2F;英语）。</p>
 <blockquote>
-<p><a href="https://wingsze.us.kg/zh-CN/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86/">个人简历</a><br><a href="https://wingsze.us.kg/zh-CN/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/">个人作品</a></p>
+<p>切换语言后，主页将显示相应语言的文章内容：<br>–&gt;<a href="https://wingsze.us.kg/zh-CN/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86/">个人简历</a><br>–&gt;<a href="https://wingsze.us.kg/zh-CN/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/">个人作品</a></p>
 </blockquote>
 <p><mark class="label success">左侧功能:</mark><br>  主菜单：首页（Welcome again!）、关于（多语言自我介绍）、分类（文章的多语言版本）、检索（输入关键词即可搜索相关内容）<br>  作者栏目：包含电子邮件地址和其他平台的个人主页，欢迎联系了解！<br>  目录：进入文章后左侧会出现目录</p>
 </div>
@@ -36,9 +36,9 @@
 <p><strong>移动设备用户</strong></p>
 <div class="note "><p>移动设备的主菜单在网页顶部；作者栏目和目录则在左下角</p>
 </div></div><div class="tab-pane" id="first-unique-name-3"><p><strong>Desktop Users</strong></p>
-<div class="note "><p>The 🌓 at bottom right corner allows you to switch between light and dark mode<br>The website’s default language is <mark class="label primary">Traditional-Hong Kong</mark>. You can switch languages at the bottom of the page (Traditional-Hong Kong&#x2F;Simplified&#x2F;English).<br>After switching languages, the homepage will display articles in the corresponding language:</p>
+<div class="note "><p>The 🌓 at bottom right corner allows you to switch between light and dark mode<br>The website’s default language is <mark class="label primary">Traditional-Hong Kong</mark>. You can switch languages at the bottom of the page (Traditional-Hong Kong&#x2F;Simplified&#x2F;English).</p>
 <blockquote>
-<p><a href="https://wingsze.us.kg/en/Personal%20Resume/">Personal Resume</a><br><a href="https://wingsze.us.kg/en/Personal%20Portfolio/">Personal Portfolio</a></p>
+<p>After switching languages, the homepage will display articles in the corresponding language:<br>–&gt;<a href="https://wingsze.us.kg/en/Personal%20Resume/">Personal Resume</a><br>–&gt;<a href="https://wingsze.us.kg/en/Personal%20Portfolio/">Personal Portfolio</a></p>
 </blockquote>
 <p><mark class="label success">Left-side Features:</mark><br>  Main Menu: Home(Welcome again!), About (Multilingual Self-introduction), Categories (Multilingual versions of articles), Search(Enter a keyword to search for related content)<br>  Author’s Column: Includes email address and personal homepages on other platforms, feel free to contact for more information!<br>  Table of Contents: Appears on the left side after entering an article</p>
 </div>
@@ -46,18 +46,6 @@
 <p><strong>Mobile Device Users</strong></p>
 <div class="note "><p>The main menu for mobile devices is at the top of the web page; the author’s column and table of contents are located at the bottom left.</p>
 </div></div></div></div>]]></content>
-  </entry>
-  <entry>
-    <title>Personal Portfolio</title>
-    <url>/en/Personal%20Portfolio/</url>
-    <content><![CDATA[<h1 id="Wechat-Official-Account-Post-Design"><a href="#Wechat-Official-Account-Post-Design" class="headerlink" title="Wechat Official Account Post Design"></a>Wechat Official Account Post Design</h1><p><strong><a href="https://mp.weixin.qq.com/s/XHRXYv0PKvCn2HMyKZUFyQ">音韵华章 一路探西 | 真探工作室带你体验西班牙美食之旅</a></strong> <span id="more"></span><br><strong><a href="https://mp.weixin.qq.com/s/fAWktwnZK4j_iZ93nmxGTg">實習資訊｜2023年度「青年內地實習資助計劃」</a></strong></p>
-<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column"><img src="/images/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%88%AA%E5%9B%BE2.png" alt="音韵华章 一路探西 | 真探工作室带你体验西班牙美食之旅"></div><div class="group-picture-column"><img src="/images/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%88%AA%E5%9B%BE1.png" alt="實習資訊｜2023年度「青年內地實習資助計劃」"></div></div></div>
-
-<h1 id="Wechat-Channel"><a href="#Wechat-Channel" class="headerlink" title="Wechat Channel"></a>Wechat Channel</h1><p><img src="/images/%E8%A7%86%E9%A2%91%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg" alt="何哈哈吃大瓜"></p>
-]]></content>
-      <categories>
-        <category>Portfolio</category>
-      </categories>
   </entry>
   <entry>
     <title>Personal Resume</title>
@@ -69,7 +57,7 @@
 <li><a href="https://pan.baidu.com/s/1zMN3RZ1pTdLvqoxvzzP3sA?pwd=mviw">Ho Wing Sze CV</a></li>
 </ul>
 <h1 id="Contact-Information"><a href="#Contact-Information" class="headerlink" title="Contact Information"></a>Contact Information</h1><ul>
-<li><strong>Email:</strong> <a href="mailto:&#104;&#x30;&#x33;&#x32;&#49;&#x5f;&#55;&#x37;&#x37;&#64;&#113;&#x71;&#46;&#99;&#111;&#x6d;">&#104;&#x30;&#x33;&#x32;&#49;&#x5f;&#55;&#x37;&#x37;&#64;&#113;&#x71;&#46;&#99;&#111;&#x6d;</a> &#x2F; <a href="mailto:&#x68;&#x79;&#115;&#115;&#115;&#119;&#x73;&#64;&#x67;&#109;&#x61;&#x69;&#108;&#46;&#99;&#x6f;&#x6d;">&#x68;&#x79;&#115;&#115;&#115;&#119;&#x73;&#64;&#x67;&#109;&#x61;&#x69;&#108;&#46;&#99;&#x6f;&#x6d;</a></li>
+<li><strong>Email:</strong> <a href="mailto:&#104;&#48;&#x33;&#50;&#x31;&#95;&#x37;&#x37;&#x37;&#x40;&#113;&#113;&#x2e;&#x63;&#111;&#109;">&#104;&#48;&#x33;&#50;&#x31;&#95;&#x37;&#x37;&#x37;&#x40;&#113;&#113;&#x2e;&#x63;&#111;&#109;</a> &#x2F; <a href="mailto:&#x68;&#121;&#115;&#115;&#115;&#x77;&#115;&#x40;&#x67;&#109;&#97;&#x69;&#108;&#46;&#99;&#111;&#109;">&#x68;&#121;&#115;&#115;&#115;&#x77;&#115;&#x40;&#x67;&#109;&#97;&#x69;&#108;&#46;&#99;&#111;&#109;</a></li>
 <li><strong>Tele:</strong> 13054416723</li>
 <li><strong>Wechat:</strong> xh_hys</li>
 </ul>
@@ -132,12 +120,12 @@
       </categories>
   </entry>
   <entry>
-    <title>个人作品</title>
-    <url>/zh-CN/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/</url>
-    <content><![CDATA[<h1 id="公众号排版"><a href="#公众号排版" class="headerlink" title="公众号排版"></a>公众号排版</h1><p><strong><a href="https://mp.weixin.qq.com/s/XHRXYv0PKvCn2HMyKZUFyQ">音韵华章 一路探西 | 真探工作室带你体验西班牙美食之旅</a></strong> <span id="more"></span><br><strong><a href="https://mp.weixin.qq.com/s/fAWktwnZK4j_iZ93nmxGTg">實習資訊｜2023年度「青年內地實習資助計劃」</a></strong></p>
-<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column"><img src="/images/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%88%AA%E5%9B%BE1.png" alt="音韵华章 一路探西 | 真探工作室带你体验西班牙美食之旅"></div><div class="group-picture-column"><img src="/images/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%88%AA%E5%9B%BE2.png" alt="實習資訊｜2023年度「青年內地實習資助計劃」"></div></div></div>
+    <title>Personal Portfolio</title>
+    <url>/en/Personal%20Portfolio/</url>
+    <content><![CDATA[<h1 id="Wechat-Official-Account-Post-Design"><a href="#Wechat-Official-Account-Post-Design" class="headerlink" title="Wechat Official Account Post Design"></a>Wechat Official Account Post Design</h1><p><strong><a href="https://mp.weixin.qq.com/s/XHRXYv0PKvCn2HMyKZUFyQ">音韵华章 一路探西 | 真探工作室带你体验西班牙美食之旅</a></strong> <span id="more"></span><br><strong><a href="https://mp.weixin.qq.com/s/fAWktwnZK4j_iZ93nmxGTg">實習資訊｜2023年度「青年內地實習資助計劃」</a></strong></p>
+<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column"><img src="/images/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%88%AA%E5%9B%BE2.png" alt="音韵华章 一路探西 | 真探工作室带你体验西班牙美食之旅"></div><div class="group-picture-column"><img src="/images/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%88%AA%E5%9B%BE1.png" alt="實習資訊｜2023年度「青年內地實習資助計劃」"></div></div></div>
 
-<h1 id="微信视频号"><a href="#微信视频号" class="headerlink" title="微信视频号"></a>微信视频号</h1><p><img src="/images/%E8%A7%86%E9%A2%91%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg" alt="何哈哈吃大瓜"></p>
+<h1 id="Wechat-Channel"><a href="#Wechat-Channel" class="headerlink" title="Wechat Channel"></a>Wechat Channel</h1><p><img src="/images/%E8%A7%86%E9%A2%91%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg" alt="何哈哈吃大瓜"></p>
 ]]></content>
       <categories>
         <category>Portfolio</category>
@@ -150,10 +138,10 @@
 <li><strong>姓名：</strong> 何咏诗 <span id="more"></span></li>
 </ul>
 <h1 id="PDF格式简历下载"><a href="#PDF格式简历下载" class="headerlink" title="PDF格式简历下载"></a>PDF格式简历下载</h1><ul>
-<li><a href="https://pan.baidu.com/s/1oTcUU5DIA6BGEYJKSCSzIw?pwd=g8cq">何咏诗 个人简历</a></li>
+<li><a href="https://pan.baidu.com/s/1bI2hTJEEEmVY2R7F4BQU0Q?pwd=tjhy">何咏诗 个人简历</a></li>
 </ul>
 <h1 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h1><ul>
-<li>邮箱：<a href="mailto:&#104;&#x30;&#x33;&#50;&#49;&#95;&#55;&#x37;&#55;&#64;&#x71;&#113;&#46;&#x63;&#x6f;&#109;">&#104;&#x30;&#x33;&#50;&#49;&#95;&#55;&#x37;&#55;&#64;&#x71;&#113;&#46;&#x63;&#x6f;&#109;</a> &#x2F; <a href="mailto:&#x68;&#121;&#115;&#x73;&#x73;&#119;&#x73;&#x40;&#x67;&#x61;&#109;&#105;&#x6c;&#x2e;&#x63;&#x6f;&#109;">&#x68;&#121;&#115;&#x73;&#x73;&#119;&#x73;&#x40;&#x67;&#x61;&#109;&#105;&#x6c;&#x2e;&#x63;&#x6f;&#109;</a></li>
+<li>邮箱：<a href="mailto:&#104;&#x30;&#51;&#50;&#x31;&#95;&#55;&#x37;&#x37;&#x40;&#113;&#x71;&#x2e;&#99;&#111;&#x6d;">&#104;&#x30;&#51;&#50;&#x31;&#95;&#55;&#x37;&#x37;&#x40;&#113;&#x71;&#x2e;&#99;&#111;&#x6d;</a> &#x2F; <a href="mailto:&#104;&#121;&#115;&#115;&#115;&#x77;&#115;&#64;&#103;&#x61;&#x6d;&#x69;&#108;&#x2e;&#x63;&#111;&#109;">&#104;&#121;&#115;&#115;&#115;&#x77;&#115;&#64;&#103;&#x61;&#x6d;&#x69;&#108;&#x2e;&#x63;&#111;&#109;</a></li>
 <li>电话：13054416723</li>
 <li>微信：xh_hys</li>
 </ul>
@@ -216,6 +204,30 @@
       </categories>
   </entry>
   <entry>
+    <title>个人作品</title>
+    <url>/zh-CN/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/</url>
+    <content><![CDATA[<h1 id="公众号排版"><a href="#公众号排版" class="headerlink" title="公众号排版"></a>公众号排版</h1><p><strong><a href="https://mp.weixin.qq.com/s/XHRXYv0PKvCn2HMyKZUFyQ">音韵华章 一路探西 | 真探工作室带你体验西班牙美食之旅</a></strong> <span id="more"></span><br><strong><a href="https://mp.weixin.qq.com/s/fAWktwnZK4j_iZ93nmxGTg">實習資訊｜2023年度「青年內地實習資助計劃」</a></strong></p>
+<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column"><img src="/images/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%88%AA%E5%9B%BE1.png" alt="音韵华章 一路探西 | 真探工作室带你体验西班牙美食之旅"></div><div class="group-picture-column"><img src="/images/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%88%AA%E5%9B%BE2.png" alt="實習資訊｜2023年度「青年內地實習資助計劃」"></div></div></div>
+
+<h1 id="微信视频号"><a href="#微信视频号" class="headerlink" title="微信视频号"></a>微信视频号</h1><p><img src="/images/%E8%A7%86%E9%A2%91%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg" alt="何哈哈吃大瓜"></p>
+]]></content>
+      <categories>
+        <category>Portfolio</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>個人作品</title>
+    <url>/zh-HK/%E5%80%8B%E4%BA%BA%E4%BD%9C%E5%93%81/</url>
+    <content><![CDATA[<h1 id="微信公眾號排版"><a href="#微信公眾號排版" class="headerlink" title="微信公眾號排版"></a>微信公眾號排版</h1><p><strong><a href="https://mp.weixin.qq.com/s/XHRXYv0PKvCn2HMyKZUFyQ">音韵华章 一路探西 | 真探工作室带你体验西班牙美食之旅</a></strong> <span id="more"></span><br><strong><a href="https://mp.weixin.qq.com/s/fAWktwnZK4j_iZ93nmxGTg">實習資訊｜2023年度「青年內地實習資助計劃」</a></strong></p>
+<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column"><img src="/images/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%88%AA%E5%9B%BE1.png" alt="音韵华章 一路探西 | 真探工作室带你体验西班牙美食之旅"></div><div class="group-picture-column"><img src="/images/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%88%AA%E5%9B%BE2.png" alt="實習資訊｜2023年度「青年內地實習資助計劃」"></div></div></div>
+
+<h1 id="微信影音號"><a href="#微信影音號" class="headerlink" title="微信影音號"></a>微信影音號</h1><p><img src="/images/%E8%A7%86%E9%A2%91%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg" alt="何哈哈吃大瓜"></p>
+]]></content>
+      <categories>
+        <category>Portfolio</category>
+      </categories>
+  </entry>
+  <entry>
     <title>履歷</title>
     <url>/zh-HK/%E5%80%8B%E4%BA%BA%E5%B1%A5%E6%AD%B7/</url>
     <content><![CDATA[<h1 id="基本資料"><a href="#基本資料" class="headerlink" title="基本資料"></a>基本資料</h1><ul>
@@ -225,7 +237,7 @@
 <li><a href="https://drive.google.com/file/d/1Qmjrrg4JzqBW5TrY_iqqcFh3oWt5BkNy/view?usp=drive_link">何詠詩 CV</a></li>
 </ul>
 <h1 id="聯繫方式"><a href="#聯繫方式" class="headerlink" title="聯繫方式"></a>聯繫方式</h1><ul>
-<li>Email：<a href="mailto:&#x68;&#121;&#x73;&#x73;&#115;&#x77;&#x73;&#64;&#103;&#x6d;&#97;&#x69;&#108;&#x2e;&#x63;&#111;&#109;">&#x68;&#121;&#x73;&#x73;&#115;&#x77;&#x73;&#64;&#103;&#x6d;&#97;&#x69;&#108;&#x2e;&#x63;&#111;&#109;</a></li>
+<li>Email：<a href="mailto:&#104;&#x79;&#115;&#115;&#115;&#119;&#x73;&#64;&#x67;&#x6d;&#97;&#x69;&#108;&#46;&#99;&#x6f;&#109;">&#104;&#x79;&#115;&#115;&#115;&#119;&#x73;&#64;&#x67;&#x6d;&#97;&#x69;&#108;&#46;&#99;&#x6f;&#109;</a></li>
 <li>Tel：+852 95822882</li>
 </ul>
 <h1 id="教育背景"><a href="#教育背景" class="headerlink" title="教育背景"></a>教育背景</h1><ul>
@@ -284,18 +296,6 @@
 ]]></content>
       <categories>
         <category>Resumes</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>個人作品</title>
-    <url>/zh-HK/%E5%80%8B%E4%BA%BA%E4%BD%9C%E5%93%81/</url>
-    <content><![CDATA[<h1 id="微信公眾號排版"><a href="#微信公眾號排版" class="headerlink" title="微信公眾號排版"></a>微信公眾號排版</h1><p><strong><a href="https://mp.weixin.qq.com/s/XHRXYv0PKvCn2HMyKZUFyQ">音韵华章 一路探西 | 真探工作室带你体验西班牙美食之旅</a></strong> <span id="more"></span><br><strong><a href="https://mp.weixin.qq.com/s/fAWktwnZK4j_iZ93nmxGTg">實習資訊｜2023年度「青年內地實習資助計劃」</a></strong></p>
-<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column"><img src="/images/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%88%AA%E5%9B%BE1.png" alt="音韵华章 一路探西 | 真探工作室带你体验西班牙美食之旅"></div><div class="group-picture-column"><img src="/images/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%88%AA%E5%9B%BE2.png" alt="實習資訊｜2023年度「青年內地實習資助計劃」"></div></div></div>
-
-<h1 id="微信影音號"><a href="#微信影音號" class="headerlink" title="微信影音號"></a>微信影音號</h1><p><img src="/images/%E8%A7%86%E9%A2%91%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg" alt="何哈哈吃大瓜"></p>
-]]></content>
-      <categories>
-        <category>Portfolio</category>
       </categories>
   </entry>
 </search>
