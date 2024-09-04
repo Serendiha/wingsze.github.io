@@ -1233,7 +1233,7 @@ pre code {
     transition: all 0.2s ease-in-out;
   }
   .links-of-author a::before {
-    background: #a4e8ff;
+    background: #fcfcfb;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
@@ -2027,6 +2027,14 @@ pre code {
   position: absolute;
   top: 0;
   width: 100%;
+}
+.post-body p a {
+  color: #6c48c5;
+  border-bottom: none;
+}
+.post-body p a:hover {
+  color: #fabc3f;
+  text-decoration: underline;
 }
 .post-gallery {
   display: flex;
@@ -2897,11 +2905,4 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 50% 50%;
-}
-.post {
-  margin-top: 60px;
-  margin-bottom: 60px;
-  padding: 25px;
-  -webkit-box-shadow: 0 0 5px rgba(202,203,203,0.5);
-  -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
 }
