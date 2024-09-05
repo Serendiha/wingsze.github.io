@@ -884,6 +884,7 @@ pre code {
   border-top: 3px solid transparent;
   flex-grow: 1;
   list-style-type: none;
+  transition: all 0.2s ease-out;
 }
 @media (max-width: 413px) {
   .post-body .tabs ul.nav-tabs li.tab,
@@ -1233,7 +1234,7 @@ pre code {
     transition: all 0.2s ease-in-out;
   }
   .links-of-author a::before {
-    background: #c791ff;
+    background: #ffffeb;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
